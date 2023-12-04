@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/faqro/metro-vancouver-font/main/MetroVancouverTitle.png" height="40"/>
+<img src="https://raw.githubusercontent.com/faqro/metro-vancouver-font/main/MetroVancouverTitle.png" width="300"/>
 
 # Metro Vancouver Font
 Display font made for personal projects. Metro Vancouver display font made by Faraaz Jan.
