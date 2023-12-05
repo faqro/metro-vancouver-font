@@ -3,6 +3,8 @@
 # Metro Vancouver Font
 Display font made for personal projects. Metro Vancouver display font made by Faraaz Jan. v1.2
 
+For use in commercial projects, contact me@faraaz.page
+
 
 ## License
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
